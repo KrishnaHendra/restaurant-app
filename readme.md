@@ -21,7 +21,7 @@ Website Point Of Sales with Laravel
     - Delete
 
 
-## Page and Features
+## Backup
 - Sign In Page
 - Sign Up Page
 - Forgot Password
