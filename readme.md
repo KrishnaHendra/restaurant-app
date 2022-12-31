@@ -12,6 +12,7 @@ Website Point Of Sales with Laravel
     - Administrator
     - Accounting
     - Manager
+    - Chef
 - Dynamic Function
     - Create
     - Read
