@@ -27,7 +27,6 @@ Website Point Of Sales with Laravel
 - Forgot Password
 - Remember Me
 - Dynamic Role
-    - Administrator
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
