@@ -10,6 +10,7 @@ Website Point Of Sales with Laravel
 - Remember Me
 - Dynamic Role
     - Administrator
+    - Accounting
 - Dynamic Function
     - Create
     - Read
