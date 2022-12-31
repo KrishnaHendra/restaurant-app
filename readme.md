@@ -9,6 +9,7 @@ Website Point Of Sales with Laravel
 - Forgot Password
 - Remember Me
 - Dynamic Role
+    - Administrator
 - Dynamic Function
     - Create
     - Read
