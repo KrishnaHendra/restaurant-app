@@ -3,7 +3,7 @@
 Website Point Of Sales with Laravel
 ```
 
-## Page and Features
+## Backup
 - Sign In Page
 - Sign Up Page
 - Forgot Password
