@@ -14,6 +14,7 @@ Website Point Of Sales with Laravel
     - Chef
     - Customer
 - Dynamic Function
+    - Create
 
 ## Backup
 - Sign In Page
