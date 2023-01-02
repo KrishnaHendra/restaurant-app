@@ -16,6 +16,7 @@ Website Point Of Sales with Laravel
 - Dynamic Function
     - Create
     - Read
+    - Update
 
 ## Backup
 - Sign In Page
