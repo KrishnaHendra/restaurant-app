@@ -6,6 +6,7 @@ Website Point Of Sales with Laravel
 - Sign In Page
 - Sign Up Page
 - Forgot Password
+- Remember Me
 
 ## Backup
 - Sign In Page
