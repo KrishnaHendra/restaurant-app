@@ -4,6 +4,7 @@ Website Point Of Sales with Laravel
 ```
 ## Page and Features
 - Sign In Page
+- Sign Up Page
 
 ## Backup
 - Sign In Page
