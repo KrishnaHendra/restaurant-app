@@ -7,6 +7,7 @@ Website Point Of Sales with Laravel
 - Sign Up Page
 - Forgot Password
 - Remember Me
+- Dynamic Role
 
 ## Backup
 - Sign In Page
