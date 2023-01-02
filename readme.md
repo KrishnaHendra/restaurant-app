@@ -17,6 +17,7 @@ Website Point Of Sales with Laravel
     - Create
     - Read
     - Update
+    - Delete
 
 ## Backup
 - Sign In Page
