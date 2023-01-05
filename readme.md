@@ -26,7 +26,6 @@ Website Point Of Sales with Laravel
 - Remember Me
 - Dynamic Role
     - Adminstrator
-    - Accounting
     
     
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
