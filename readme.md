@@ -30,7 +30,6 @@ Website Point Of Sales with Laravel
     - Manager
     - Chef
     - Customer
-- Dynamic Function
     
     
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
