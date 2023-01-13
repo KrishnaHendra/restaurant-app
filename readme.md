@@ -27,7 +27,6 @@ Website Point Of Sales with Laravel
 - Dynamic Role
     - Adminstrator
     - Accounting
-    - General User
 - Dynamic Function
 
 
