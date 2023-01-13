@@ -29,7 +29,6 @@ Website Point Of Sales with Laravel
     - Accounting
     - General User
 - Dynamic Function
-    - Create
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
