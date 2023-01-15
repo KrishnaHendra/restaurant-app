@@ -18,6 +18,23 @@ Website Point Of Sales with Laravel
     - Read
     - Update
     - Delete
+    
+## Backup
+- Sign In Page
+- Sign Up Page
+- Forgot Password
+- Remember Me
+- Dynamic Role
+    - Adminstrator
+    - Accounting
+    - Manager
+    - Chef
+    - Customer
+- Dynamic Function
+    - Create
+    - Read
+    - Update
+    - Delete
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
