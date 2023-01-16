@@ -22,8 +22,6 @@ Website Point Of Sales with Laravel
 ## Backup
 - Sign In Page
 - Sign Up Page
-- Forgot Password
-- Remember Me
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
