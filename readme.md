@@ -2,7 +2,7 @@
 ```
 Website Point Of Sales with Laravel
 ```
-ssaaffaaffaaaa
+ssaaffaaffaaaaaa
 ## Page and Features
 - Sign In Page
 - Sign Up Page
